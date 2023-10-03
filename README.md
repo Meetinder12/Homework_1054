@@ -29,4 +29,15 @@
 
 ## Shon
 ### Hobbies
- Playing Football 
+ - Drumming
+ - Going to gym
+ ## Background
+ I was born and raised in India, to be more precise from the southern state called Kerala. My hmetown is in Kottayam. Im from a nuclear family consist of my father, mother and elder sister. I completed my high school in SMSNHSS Vaikom, Kottayam.
+ ## Skills
+ - Team work
+ - Active listening
+ - Adaptability
+ - Creativity
+ 
+
+
