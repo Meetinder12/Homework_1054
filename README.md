@@ -3,6 +3,7 @@
 
 ## Name:Shon
 ### Hobbies
+<<<<<<< Updated upstream
  - Drumming
      ![drumming](images/drumming.jpg)
  - Going to gym
@@ -24,3 +25,7 @@
  
 
 
+=======
+ Playing Football
+ 
+>>>>>>> Stashed changes
