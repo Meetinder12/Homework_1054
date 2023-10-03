@@ -4,9 +4,9 @@
 
  ## Meetinder
  ### Hobbies 
- Cooking
+  *Cooking*
  ![cooking](images/cooking.jpg)
- Reading Old Books
+  *Reading Old Books*
  ![books](images/books.jpg)
  ### Background
  My home is in Bathinda, Punjab, India.
